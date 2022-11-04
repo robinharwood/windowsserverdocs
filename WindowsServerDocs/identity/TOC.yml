@@ -978,6 +978,8 @@
       href: ad-rms/adrms-deploy.md
   - name: Active Directory Certificate Services
     href: ad-cs/index.yml
+    - name: Network Device Enrollment Service for AD CS
+    href: https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831498(v=ws.11)
   - name: Administrative tools and logon types reference
     href: securing-privileged-access/reference-tools-logon-types.md
   - name: Software Restriction Policies
